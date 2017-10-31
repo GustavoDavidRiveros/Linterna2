@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="dimens" type="Android Nine-Patch" />
       <mapping pattern="on-off" type="Native" />
+      <mapping ext="mp3" type="Native" />
     </extensionMap>
   </component>
 </application>
